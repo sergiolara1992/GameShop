@@ -1,0 +1,88 @@
+{
+  "juegos": [
+    {
+      "nombre": "Horizon Forbidden West",
+      "descripcion": "Pellentesque auctor sapien a lectus cursus interdum. Donec aliquet sodales elit eget efficitur. Morbi porta sem nisi. Quisque dolor libero, ullamcorper sed vehicula in, efficitur ut turpis. Integer pretium mauris quis nisl rhoncus euismod. Nunc iaculis augue metus, et iaculis metus eleifend in. Nam finibus enim aliquet massa posuere facilisis. Nunc hendrerit facilisis egestas.",
+      "precio": 60,
+      "imagen": "https://media.vandal.net/m/86450/horizon-2-forbidden-west-20201124144437_1.jpg",
+      "id": 1
+    },
+    {
+      "nombre": "The Callisto Protocol",
+      "descripcion": "Pellentesque auctor sapien a lectus cursus interdum. Donec aliquet sodales elit eget efficitur. Morbi porta sem nisi. Quisque dolor libero, ullamcorper sed vehicula in, efficitur ut turpis. Integer pretium mauris quis nisl rhoncus euismod. Nunc iaculis augue metus, et iaculis metus eleifend in. Nam finibus enim aliquet massa posuere facilisis. Nunc hendrerit facilisis egestas.",
+      "precio": 45,
+      "imagen": "https://m.media-amazon.com/images/I/81oohmrbC+L._AC_UF1000,1000_QL80_.jpg",
+      "id": 2
+    },
+    {
+      "nombre": "Resident Evil 4",
+      "descripcion": "Pellentesque auctor sapien a lectus cursus interdum. Donec aliquet sodales elit eget efficitur. Morbi porta sem nisi. Quisque dolor libero, ullamcorper sed vehicula in, efficitur ut turpis. Integer pretium mauris quis nisl rhoncus euismod. Nunc iaculis augue metus, et iaculis metus eleifend in. Nam finibus enim aliquet massa posuere facilisis. Nunc hendrerit facilisis egestas.",
+      "precio": 60,
+      "imagen": "https://media.vandal.net/m/120274/resident-evil-4-remake-202321717493566_1.jpg",
+      "id": 3
+    },
+    {
+      "nombre": "Resident Evil Village",
+      "descripcion": "Pellentesque auctor sapien a lectus cursus interdum. Donec aliquet sodales elit eget efficitur. Morbi porta sem nisi. Quisque dolor libero, ullamcorper sed vehicula in, efficitur ut turpis. Integer pretium mauris quis nisl rhoncus euismod. Nunc iaculis augue metus, et iaculis metus eleifend in. Nam finibus enim aliquet massa posuere facilisis. Nunc hendrerit facilisis egestas.",
+      "precio": 20,
+      "imagen": "https://m.media-amazon.com/images/I/81nE+UW29OL._AC_UF1000,1000_QL80_.jpg",
+      "id": 4
+    },
+    {
+      "nombre": "Death Stranding",
+      "descripcion": "Pellentesque auctor sapien a lectus cursus interdum. Donec aliquet sodales elit eget efficitur. Morbi porta sem nisi. Quisque dolor libero, ullamcorper sed vehicula in, efficitur ut turpis. Integer pretium mauris quis nisl rhoncus euismod. Nunc iaculis augue metus, et iaculis metus eleifend in. Nam finibus enim aliquet massa posuere facilisis. Nunc hendrerit facilisis egestas.",
+      "precio": 15,
+      "imagen": "https://m.media-amazon.com/images/I/81TC6LCxGmL._AC_UF1000,1000_QL80_.jpg",
+      "id": 5
+    },
+    {
+      "nombre": "Ratchet & Clank",
+      "descripcion": "Pellentesque auctor sapien a lectus cursus interdum. Donec aliquet sodales elit eget efficitur. Morbi porta sem nisi. Quisque dolor libero, ullamcorper sed vehicula in, efficitur ut turpis. Integer pretium mauris quis nisl rhoncus euismod. Nunc iaculis augue metus, et iaculis metus eleifend in. Nam finibus enim aliquet massa posuere facilisis. Nunc hendrerit facilisis egestas.",
+      "precio": 15,
+      "imagen": "https://m.media-amazon.com/images/I/81NROu9kd-L._AC_SX679_.jpg",
+      "id": 6
+    },
+    {
+      "nombre": "The Last Of US Part 2",
+      "descripcion": "Pellentesque auctor sapien a lectus cursus interdum. Donec aliquet sodales elit eget efficitur. Morbi porta sem nisi. Quisque dolor libero, ullamcorper sed vehicula in, efficitur ut turpis. Integer pretium mauris quis nisl rhoncus euismod. Nunc iaculis augue metus, et iaculis metus eleifend in. Nam finibus enim aliquet massa posuere facilisis. Nunc hendrerit facilisis egestas.",
+      "precio": 15,
+      "imagen": "https://m.media-amazon.com/images/I/719Hii0AufL._AC_SX679_.jpg",
+      "id": 7
+    },
+    {
+      "nombre": "Demon Souls",
+      "descripcion": "Pellentesque auctor sapien a lectus cursus interdum. Donec aliquet sodales elit eget efficitur. Morbi porta sem nisi. Quisque dolor libero, ullamcorper sed vehicula in, efficitur ut turpis. Integer pretium mauris quis nisl rhoncus euismod. Nunc iaculis augue metus, et iaculis metus eleifend in. Nam finibus enim aliquet massa posuere facilisis. Nunc hendrerit facilisis egestas.",
+      "precio": 15,
+      "imagen": "https://m.media-amazon.com/images/I/81szAXdCKHL._AC_SX679_.jpg",
+      "id": 8
+    },
+    {
+      "nombre": "Spider Man Miles Morales",
+      "descripcion": "Pellentesque auctor sapien a lectus cursus interdum. Donec aliquet sodales elit eget efficitur. Morbi porta sem nisi. Quisque dolor libero, ullamcorper sed vehicula in, efficitur ut turpis. Integer pretium mauris quis nisl rhoncus euismod. Nunc iaculis augue metus, et iaculis metus eleifend in. Nam finibus enim aliquet massa posuere facilisis. Nunc hendrerit facilisis egestas.",
+      "precio": 15,
+      "imagen": "https://m.media-amazon.com/images/I/81DN5b9LvKL._AC_SX679_.jpg",
+      "id": 9
+    },
+    {
+      "nombre": "Sack Boy",
+      "descripcion": "Pellentesque auctor sapien a lectus cursus interdum. Donec aliquet sodales elit eget efficitur. Morbi porta sem nisi. Quisque dolor libero, ullamcorper sed vehicula in, efficitur ut turpis. Integer pretium mauris quis nisl rhoncus euismod. Nunc iaculis augue metus, et iaculis metus eleifend in. Nam finibus enim aliquet massa posuere facilisis. Nunc hendrerit facilisis egestas.",
+      "precio": 10,
+      "imagen": "https://m.media-amazon.com/images/I/91YXtjRpLoL._AC_SX679_.jpg",
+      "id": 10
+    },
+    {
+      "nombre": "Howarts Legacy",
+      "descripcion": "Pellentesque auctor sapien a lectus cursus interdum. Donec aliquet sodales elit eget efficitur. Morbi porta sem nisi. Quisque dolor libero, ullamcorper sed vehicula in, efficitur ut turpis. Integer pretium mauris quis nisl rhoncus euismod. Nunc iaculis augue metus, et iaculis metus eleifend in. Nam finibus enim aliquet massa posuere facilisis. Nunc hendrerit facilisis egestas.",
+      "precio": 15,
+      "imagen": "https://m.media-amazon.com/images/I/811m+JsGAzL._AC_SX679_.jpg",
+      "id": 11
+    },
+    {
+      "nombre": "Gran Turismo 7",
+      "descripcion": "Pellentesque auctor sapien a lectus cursus interdum. Donec aliquet sodales elit eget efficitur. Morbi porta sem nisi. Quisque dolor libero, ullamcorper sed vehicula in, efficitur ut turpis. Integer pretium mauris quis nisl rhoncus euismod. Nunc iaculis augue metus, et iaculis metus eleifend in. Nam finibus enim aliquet massa posuere facilisis. Nunc hendrerit facilisis egestas.",
+      "precio": 15,
+      "imagen": "https://m.media-amazon.com/images/I/81b7pJqCp8L._AC_SX679_.jpg",
+      "id": 12
+    }
+  ]
+}

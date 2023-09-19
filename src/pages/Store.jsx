@@ -7,7 +7,9 @@ import ListadoJuegos from "../../components/Listado-juegos";
 function Store() {
 
     async function fecthData() {
-      const respuesta = await fetch("http://localhost:3000/juegos");
+      const respuesta = await fetch(
+        "https://gamesjson-production.up.railway.app/juegos"
+      );
       const resultado = await respuesta.json();
       setJuegos(resultado);
     }

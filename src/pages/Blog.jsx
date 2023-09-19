@@ -8,7 +8,9 @@ function Blog() {
  
 
    async function fecthData() {
-     const respuesta = await fetch("http://localhost:4000/blog");
+     const respuesta = await fetch(
+       "https://newsjson-production.up.railway.app/blog"
+     );
      const resultado = await respuesta.json();
      setBlogs(resultado);
    }

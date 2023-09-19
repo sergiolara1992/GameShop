@@ -12,7 +12,9 @@ const NewsDetail = () => {
 
   async function fetchNewsDetails() {
 
-    const respuesta = await fetch(`http://localhost:4000/blog/${params.id}`);
+    const respuesta = await fetch(
+      `https://newsjson-production.up.railway.app/blog/${params.id}`
+    );
     const resultado = await respuesta.json();
     setNewsDetails(resultado)
   }

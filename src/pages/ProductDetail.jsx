@@ -15,7 +15,9 @@ const ProductDetail = () => {
   
   async function fetchProductDetails() {
         
-      const respuesta = await fetch(`http://localhost:3000/juegos/${params.id}`);
+      const respuesta = await fetch(
+        `https://gamesjson-production.up.railway.app/juegos/${params.id}`
+      );
       const resultado = await respuesta.json();
       setProductDetails(resultado)
     }
